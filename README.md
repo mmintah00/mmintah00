@@ -19,13 +19,13 @@ I'm a Certified Kubernetes Administrator, Red Hat Certified System Administrator
 ## 🧰 Skills & Tools
 
 **Infrastructure & Platforms:**  
-Kubernetes · Docker · Red Hat · AIX · HP-UX · IBM Power · Brocade SAN · Huawei Dorado Storage  
+Kubernetes · Docker · RedHat · AIX · HP-UX · IBM Power · Brocade SAN · Huawei Dorado Storage · IBM Flash Storage 
 
 **Cloud & Automation:**  
 AWS · Azure · IBM Cloud · Oracle Cloud · Ansible · Terraform · GitLab CI/CD · Rancher  
 
-**Monitoring & Security:**  
-Dynatrace · New Relic · Microsoft Orion · Lpar2rrd · Red Hat Identity Manager · CEH  
+**Observability and Monitoring:**  
+Dynatrace · New Relic · Microsoft Orion · Lpar2rrd · ELK Stack (Elasticsearch, Logstash, Kibana) · Grafana · Prometheus
 
 **Dev & Ops Stack:**  
 Jira · Confluence · Bash · Python · MSSQL · JBOSS · Git  
