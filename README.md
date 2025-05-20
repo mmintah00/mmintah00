@@ -34,32 +34,16 @@ Jira · Confluence · Bash · Python · MSSQL · JBOSS · Git
 
 ## 📜 Certifications
 
-- ✔️ Certified Kubernetes Administrator (CKA) – Nov 2024  
-- ✔️ Certified Ethical Hacker (CEH) – June 2024  
-- ✔️ Red Hat Certified System Administrator (RHCSA) – Nov 2022  
-- ✔️ AWS Certified Cloud Practitioner – Aug 2022  
-- ✔️ Microsoft Certified Azure Fundamentals – Mar 2021  
-- ✔️ ITIL Foundation in ITSM – Feb 2020  
-- ✔️ Oracle Cloud Infrastructure Foundations Associate – Feb 2023  
-- ✔️ IBM Storage & Cloud Essentials · Cybersecurity · GitOps
+- ✔️ Certified Kubernetes Administrator (CKA) 
+- ✔️ Certified Ethical Hacker (CEH)   
+- ✔️ Red Hat Certified System Administrator (RHCSA)  
 
 ---
 
-## 🚀 Projects & Contributions
-
-> 🔐 Due to the sensitive nature of banking systems, most projects are private. However, I’m working on sharing sanitised versions of:
-- Infrastructure as Code templates (Ansible, Terraform)
-- CI/CD automation pipelines
-- Kubernetes deployment patterns for hybrid cloud
-- Observability and Monitoring using Dynatrace and Prometheus
-
----
 
 ## 📫 Let's Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/martinmintah/)  
-- 📧 mmintah00@gmail.com  
-- 🌐 Personal Site (coming soon)
 
 ---
 
