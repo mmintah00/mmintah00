@@ -32,14 +32,6 @@ Jira · Confluence · Bash · Python · MSSQL · JBOSS · Git
 
 ---
 
-## 📜 Certifications
-
-- ✔️ Certified Kubernetes Administrator (CKA) 
-- ✔️ Certified Ethical Hacker (CEH)   
-- ✔️ Red Hat Certified System Administrator (RHCSA)  
-
----
-
 
 ## 📫 Let's Connect
 
